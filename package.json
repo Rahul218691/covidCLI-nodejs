@@ -1,0 +1,20 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "Corona virus stats",
+  "main": "index.js",
+  "bin": "./bin/covid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "commander": "^7.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  }
+}
